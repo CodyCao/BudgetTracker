@@ -10,6 +10,7 @@ namespace BudgetTracker
     {
         static void Main(string[] args)
         {
+            BudgetApp b = new BudgetApp();
         }
     }
 }
